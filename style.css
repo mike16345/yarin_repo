@@ -1,0 +1,11 @@
+body{
+    background:silver ;
+}
+h1{
+    color: aqua;
+}
+p{
+    color: brown;
+    background: wheat;
+    padding: 20px;
+}
